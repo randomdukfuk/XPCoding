@@ -2,7 +2,7 @@ all this is Step by Step which makes it easier
 
 # Learn Coding/Programming
 learn a langauge
-https://www.learncpp.com
+* https://www.learncpp.com
 
 # Extras
 * https://gamehacking.academy
