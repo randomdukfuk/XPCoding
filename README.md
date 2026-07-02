@@ -1,7 +1,7 @@
 all this is Step by Step which makes it easier
 
 # Learn Coding/Programming
-learn a langauge
+Learn a Programming Langauge
 * https://www.learncpp.com
 
 # Extras
