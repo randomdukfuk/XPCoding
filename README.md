@@ -1,4 +1,4 @@
-all this is Step by Step which makes it easier
+all this is in Step by Step which makes it easier
 
 # Learn Coding/Programming
 Learn a Programming Langauge
