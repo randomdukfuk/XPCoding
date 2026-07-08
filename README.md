@@ -3,10 +3,10 @@ all this is in Step by Step which makes it easier
 # Learn Coding/Programming
 Learn a Programming Langauge
 * https://www.learncpp.com
-Do this to learn the "basics".
-Try to do a project of interest.
-Then fail and learn from it.
-Repeat ^
+1. Do this to learn the "basics".
+2. Try to do a project of interest.
+3. Then fail and learn from it.
+4. Repeat ^
 
 # Extras
 * https://gamehacking.academy
