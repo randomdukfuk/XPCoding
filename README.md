@@ -6,7 +6,7 @@ all this is in Step by Step which makes it easier
 * https://www.murach.com/shop/murach-s-c-programming-2nd-edition-detail
 * https://stroustrup.com/programming.html
 
-1. Do this to learn the "basics".
+1. Do this to learn the necessary fundamentals.
 2. Try to do a project of interest.
 3. Then fail and learn from it.
 4. Repeat ^
