@@ -1,5 +1,5 @@
 This is in Step by Step which makes it easier
-1. Do this to learn the necessary fundamentals.
+1. Learn the necessary fundamentals to understand.
 2. Try to do a project of interest.
 3. Then fail and try to solve a problem you run into, learn from it.
 4. Repeat ^
