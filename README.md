@@ -5,7 +5,7 @@ all this is in Step by Step which makes it easier
 4. Repeat ^
 5. Stop using AI
 
-# # Learn a Programming Langauge
+# Learn a Programming Langauge
 <b>C<b>
 * https://www.learn-c.org/
 <b>C++<b>
@@ -13,7 +13,7 @@ all this is in Step by Step which makes it easier
 * https://www.murach.com/shop/murach-s-c-programming-2nd-edition-detail
 * https://stroustrup.com/programming.html
 
-# # Extras
+# Extras
 * https://gamehacking.academy
 * https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
 * https://www.unknowncheats.me/forum/index.php
