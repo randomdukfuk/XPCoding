@@ -11,7 +11,6 @@ This is in Step by Step which makes it easier
 
 <b>C++<b>
 * https://www.learncpp.com
-* https://www.murach.com/shop/murach-s-c-programming-2nd-edition-detail
 * https://stroustrup.com/programming.html
 
 # Extras
