@@ -13,7 +13,6 @@ This is in Step by Step which makes it easier
 <b>C++<b>
 * [Syntax](https://www.geeksforgeeks.org/cpp/cpp-basic-syntax/)
 * https://www.learncpp.com
-* https://stroustrup.com/programming.html
 
 # Extras
 * https://gamehacking.academy
