@@ -4,7 +4,6 @@ This is in Step by Step which makes it easier
 2. Try to do a project of interest.
 3. Then fail and try to solve a problem you run into, learn from it.
 4. Repeat ^
-5. Stop using AI
 
 # Learn a Programming Language
 <b>C<b>
