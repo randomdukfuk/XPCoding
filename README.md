@@ -14,6 +14,9 @@ This is in Step by Step which makes it easier
 * [Syntax](https://www.geeksforgeeks.org/cpp/cpp-basic-syntax/)
 * https://www.learncpp.com
 
+<b>Python<b>
+* https://automatetheboringstuff.com/
+
 # Extras
 * https://gamehacking.academy
 * https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
