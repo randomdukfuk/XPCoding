@@ -1,4 +1,4 @@
-This is in Step by Step which makes it easier
+<b>This is in Step by Step which makes it easier<b>
 1. Learn the necessary fundamentals to understand.
     - Learn the syntax of the language
 2. Try to do a project of interest.
