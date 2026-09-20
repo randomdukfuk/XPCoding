@@ -19,6 +19,12 @@
 <b>Python<b>
 * https://automatetheboringstuff.com/
 
+# Write your code
+* [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+* [ZED](https://github.com/zed-industries/zed)
+* [VSCodium](https://github.com/vscodium/vscodium)
+* [VSCode](https://github.com/microsoft/vscode)
+
 # Extras
 * https://gamehacking.academy
 * https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
