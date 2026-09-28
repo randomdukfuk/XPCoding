@@ -4,8 +4,9 @@
 3. Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it
 4. Try to do the project of interest.
 5. Then fail and try to solve the problems you run into, learn from it. <b>Repeat<b> this step.
-    - Search it up online or look through a book to get ONLY the information you need.
+    - Search it up online or look through a book, get ONLY the information you need(this can save time).
     - Learning the syntax of the language will help the process.
+    - I would suggest learning fundamentals of the language
     - Everytime you code something see what the code executes and debug it.
 
 # Learn a Programming Language
