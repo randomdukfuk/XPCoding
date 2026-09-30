@@ -9,7 +9,6 @@ This is in Step by Step which makes it easier to follow
     - I would suggest learning fundamentals of the language
     - Learn how to Debug when code fails
 
----
 
 # Learn a Programming Language
 <b>C<b>
@@ -21,7 +20,6 @@ This is in Step by Step which makes it easier to follow
 <b>Python<b>
 - https://automatetheboringstuff.com/
 
----
 
 # Write your code
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/)
@@ -35,6 +33,7 @@ This is in Step by Step which makes it easier to follow
 
 # Extras
 - [Git](https://git-scm.com/)
+  - [How to push code to github](https://github.com/orgs/community/discussions/68237#discussioncomment-9559172)
 - [Docker](https://www.docker.com/)
 - https://gamehacking.academy
 - https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
