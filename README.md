@@ -27,7 +27,7 @@
 * [VSCode](https://github.com/microsoft/vscode)
 
 # Extras
-[Git](https://git-scm.com/)
+[Git](https://git-scm.com//n)
 [Docker](https://www.docker.com/)
 * https://gamehacking.academy
 * https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
