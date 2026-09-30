@@ -9,6 +9,8 @@ This is in Step by Step which makes it easier to follow
     - I would suggest learning fundamentals of the language
     - Learn how to Debug when code fails
 
+--
+
 # Learn a Programming Language
 <b>C<b>
 - https://www.learn-c.org/
@@ -18,6 +20,8 @@ This is in Step by Step which makes it easier to follow
 
 <b>Python<b>
 - https://automatetheboringstuff.com/
+
+--
 
 # Write your code
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/)
