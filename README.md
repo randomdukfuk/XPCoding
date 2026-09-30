@@ -1,4 +1,4 @@
-# This is in Step by Step which makes it easier to follow
+This is in Step by Step which makes it easier to follow
 1. Have a core idea of the project
 2. Ask yourself. What are the steps I need to make to create this.
 3. Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it
@@ -11,23 +11,27 @@
 
 # Learn a Programming Language
 <b>C<b>
-* https://www.learn-c.org/
+- https://www.learn-c.org/
 
 <b>C++<b>
-* https://www.learncpp.com
+- https://www.learncpp.com
 
 <b>Python<b>
-* https://automatetheboringstuff.com/
+- https://automatetheboringstuff.com/
 
 # Write your code
-* [Visual Studio](https://visualstudio.microsoft.com/downloads/)
-* [ZED](https://github.com/zed-industries/zed)
-* [VSCodium](https://github.com/vscodium/vscodium)
-* [VSCode](https://github.com/microsoft/vscode)
+- [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+- [ZED](https://github.com/zed-industries/zed)
+- [VSCodium](https://github.com/vscodium/vscodium)
+- [VSCode](https://github.com/microsoft/vscode)
+
+# Tips
+- Organize your projects
+- 
 
 # Extras
-* [Git](https://git-scm.com/)
-* [Docker](https://www.docker.com/)
-* https://gamehacking.academy
-* https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
-* https://www.unknowncheats.me/forum/index.php
+- [Git](https://git-scm.com/)
+- [Docker](https://www.docker.com/)
+- https://gamehacking.academy
+- https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
+- https://www.unknowncheats.me/forum/index.php
