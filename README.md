@@ -29,7 +29,6 @@ This is in Step by Step which makes it easier to follow
 
 # Tips
 - Organize your projects
-- 
 
 # Extras
 - [Git](https://git-scm.com/)
