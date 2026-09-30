@@ -14,7 +14,6 @@
 * https://www.learn-c.org/
 
 <b>C++<b>
-* [Syntax](https://www.geeksforgeeks.org/cpp/cpp-basic-syntax/)
 * https://www.learncpp.com
 
 <b>Python<b>
@@ -27,7 +26,7 @@
 * [VSCode](https://github.com/microsoft/vscode)
 
 # Extras
-[Git](https://git-scm.com//n)
+[Git](https://git-scm.com/)
 [Docker](https://www.docker.com/)
 * https://gamehacking.academy
 * https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
