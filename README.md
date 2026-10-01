@@ -1,5 +1,5 @@
 This is in Step by Step which makes it easier to follow  
-I would suggest learning fundamentals of the language
+LEARN the fundamentals of the language
 1. Have a core idea of the project
 2. Ask yourself. What are the steps I need to make to create this.
 3. Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it
