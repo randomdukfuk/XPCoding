@@ -32,7 +32,6 @@ LEARN the fundamentals of the language
 
 # Extras
 - [Git](https://git-scm.com/)
-  - [How to push code to github](https://github.com/orgs/community/discussions/68237#discussioncomment-9559172)
 - [Docker](https://www.docker.com/)
 - https://gamehacking.academy
 - https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
