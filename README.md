@@ -1,4 +1,4 @@
-This is in Step by Step which makes it easier to follow
+This is in Step by Step which makes it easier to follow  
 I would suggest learning fundamentals of the language
 1. Have a core idea of the project
 2. Ask yourself. What are the steps I need to make to create this.
