@@ -23,16 +23,18 @@ LEARN the fundamentals of the language
 
 <b>C++<b>
 - https://www.learncpp.com
+- https://stroustrup.com/programming.html
 
 <b>Python<b>
 - https://automatetheboringstuff.com/
 
 
-# Write your code
-- [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+# IDE
+- [Visual Studio](https://visualstudio.microsoft.com/)
 - [ZED](https://github.com/zed-industries/zed)
 - [VSCodium](https://github.com/vscodium/vscodium)
 - [VSCode](https://github.com/microsoft/vscode)
+- [CLion](https://www.jetbrains.com/clion/)
 
 # Tips
 - Organize your projects
