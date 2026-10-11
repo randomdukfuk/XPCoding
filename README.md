@@ -27,6 +27,7 @@ LEARN the fundamentals of the language
 
 <b>Python<b>
 - https://automatetheboringstuff.com/
+- [Download](https://www.python.org/)
 
 
 # IDE
