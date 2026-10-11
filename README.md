@@ -11,6 +11,10 @@ LEARN the fundamentals of the language
 
 
 # Learn a Programming Language
+
+<b>Rust<b>
+- https://rust-lang.org/learn/
+
 <b>C<b>
 - https://www.learn-c.org/
 
