@@ -33,7 +33,7 @@ LEARN the fundamentals of the language
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [ZED](https://github.com/zed-industries/zed)
 - [VSCodium](https://github.com/vscodium/vscodium)
-- [VSCode](https://github.com/microsoft/vscode)
+- [VSCode](https://github.com/microsoft/vscode) (Note: VS Code is an editor and requires you to install a compiler manually)
 - [CLion](https://www.jetbrains.com/clion/)
 
 # Tips
