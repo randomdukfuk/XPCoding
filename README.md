@@ -15,6 +15,9 @@ LEARN the fundamentals of the language
 <b>Rust<b>
 - https://rust-lang.org/learn/
 
+<b>Javascript<b>
+- https://javascript.info/
+
 <b>C<b>
 - https://www.learn-c.org/
 
