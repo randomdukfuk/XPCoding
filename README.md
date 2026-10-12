@@ -2,7 +2,7 @@ This is in Step by Step which makes it easier to follow
 LEARN the fundamentals of the language
 1. Have a core idea of the project
 2. Ask yourself. What are the steps I need to make to create this.
-3. Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it([Recursion](https://en.wikipedia.org/wiki/Recursion))
+3. Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
 4. Try to do the project of interest.
 5. Then fail and try to solve the problems you run into, learn from it. <b>Repeat<b> this step.
     - Search it up online or look through a book, get ONLY the information you need(this can save time).
