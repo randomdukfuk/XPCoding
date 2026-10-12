@@ -22,6 +22,7 @@ LEARN the fundamentals of the language
 - https://www.learn-c.org/
 
 <b>C++<b>
+- https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 - https://www.learncpp.com
 - https://stroustrup.com/programming.html
 
