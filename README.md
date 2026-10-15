@@ -10,6 +10,8 @@ LEARN the fundamentals of the language
     - Learn how to Debug when code fails
 
 
+great reads([1](http://www.norvig.com/21-days.html),[2](https://archive.0x00sec.org/t/teach-yourself-programming-in-10-years-essay-by-peter-norvig/230))
+
 # Learn a Programming Language
 
 <b>Rust<b>
