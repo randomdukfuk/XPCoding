@@ -16,7 +16,7 @@ LEARN the fundamentals of the language
 # Learn a Programming Language
 
 <b>PowerShell<b>
--https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs
+- https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs
 
 <b>Rust<b>
 - https://rust-lang.org/learn/
