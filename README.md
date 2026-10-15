@@ -21,9 +21,6 @@ LEARN the fundamentals of the language
 <b>Javascript<b>
 - https://javascript.info/
 
-<b>C<b>
-- https://www.learn-c.org/
-
 <b>C++<b>
 - https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 - https://www.learncpp.com
