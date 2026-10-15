@@ -22,9 +22,7 @@ LEARN the fundamentals of the language
 - https://javascript.info/
 
 <b>C++<b>
-- https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 - https://www.learncpp.com
-- https://stroustrup.com/programming.html
 
 <b>Python<b>
 - https://automatetheboringstuff.com/
