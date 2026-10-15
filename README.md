@@ -1,6 +1,7 @@
 This is in Step by Step which makes it easier to follow
 
 great reads([1](http://www.norvig.com/21-days.html),[2](https://archive.0x00sec.org/t/teach-yourself-programming-in-10-years-essay-by-peter-norvig/230))
+
 LEARN the fundamentals of the language
 1. Have a core idea of the project
 2. Ask yourself. What are the steps I need to make to create this.
