@@ -2,16 +2,13 @@ This is in Step by Step which makes it easier to follow
 
 great reads([1](http://www.norvig.com/21-days.html),[2](https://archive.0x00sec.org/t/teach-yourself-programming-in-10-years-essay-by-peter-norvig/230))
 
-LEARN the fundamentals of the language
+LEARN the fundamentals of the language(stick to one language for a while)
 1. Have a core idea of the project
 2. Ask yourself. What are the steps I need to make to create this.
-3. Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
-4. Try to do the project of interest.
-5. Then fail and try to solve the problems you run into, learn from it. <b>Repeat<b> this step.
-    - Search it up online or look through a book, get ONLY the information you need(this can save time).
-    - Learning the syntax of the language will help the process.
-    - Learn how to Debug when code fails
-
+3. If you encounter terms you don't know, make sure to look them up.
+   Break things down into manageable chunks, don't try to take full concepts on at once.
+   Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
+5. Fail and Learn. Solve the problems you run into. <b>Repeat<b> this step.
 
 # Learn a Programming Language
 
