@@ -26,6 +26,7 @@ LEARN the fundamentals of the language
 
 <b>C++<b>
 - https://www.learncpp.com
+- https://isocpp.org/
 
 <b>[Python](https://www.python.org/)<b>
 - https://automatetheboringstuff.com/
