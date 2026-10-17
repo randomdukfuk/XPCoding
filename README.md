@@ -7,7 +7,7 @@ LEARN the fundamentals of the language(stick to one language for a while)
 2. Ask yourself. What are the steps I need to make to create this.
 3. If you encounter terms you don't know, make sure to look them up.
    Break things down into manageable chunks, don't try to take full concepts on at once.
-   Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
+   Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it.([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
 5. Fail and Learn. Solve the problems you run into. <b>Repeat<b> this step.
 
 # Learn a Programming Language
