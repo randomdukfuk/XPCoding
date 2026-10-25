@@ -1,6 +1,6 @@
 Great Reads([1](http://www.norvig.com/21-days.html),[2](https://archive.0x00sec.org/t/teach-yourself-programming-in-10-years-essay-by-peter-norvig/230))
 
-LEARN the fundamentals of the language(stick to one language for a while)
+LEARN the [fundamentals](https://github.com/randomdukfuk/XPCoding/blob/main/README.md#learn-a-programming-language) of the language(stick to one language for a while)
 1. Have a core idea of the project
 2. Ask yourself. What are the steps I need to take to create this.
 3. If you encounter terms you don't know, make sure to look them up.
