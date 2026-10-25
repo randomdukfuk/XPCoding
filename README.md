@@ -31,7 +31,6 @@ LEARN the [fundamentals](https://github.com/randomdukfuk/XPCoding/blob/main/READ
 - [ZED](https://github.com/zed-industries/zed)
 - [VSCodium](https://github.com/vscodium/vscodium)
 - [VSCode](https://github.com/microsoft/vscode) (Note: VS Code is an editor and requires you to install a compiler manually)
-- [CLion](https://www.jetbrains.com/clion/)
 
 # Tips
 - Organize your projects
