@@ -21,8 +21,6 @@ LEARN the fundamentals of the language(stick to one language for a while)
 
 <b>C++<b>
 - https://www.learncpp.com
-- https://isocpp.org/
-- https://learn.microsoft.com/en-us/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170
 
 <b>[Python](https://www.python.org/)<b>
 - https://automatetheboringstuff.com/
