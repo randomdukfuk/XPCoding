@@ -2,7 +2,7 @@ Great Reads([1](http://www.norvig.com/21-days.html),[2](https://archive.0x00sec.
 
 LEARN the fundamentals of the language(stick to one language for a while)
 1. Have a core idea of the project
-2. Ask yourself. What are the steps I need to make to create this.
+2. Ask yourself. What are the steps I need to take to create this.
 3. If you encounter terms you don't know, make sure to look them up.
    Break things down into manageable chunks, don't try to take full concepts on at once.
    Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it.([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
