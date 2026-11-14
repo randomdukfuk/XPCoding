@@ -32,9 +32,5 @@ LEARN the [fundamentals](https://github.com/randomdukfuk/XPCoding/blob/main/READ
 - [VSCodium](https://github.com/vscodium/vscodium)
 - [VSCode](https://github.com/microsoft/vscode) (Note: VS Code is an editor and requires you to install a compiler manually)
 
-# Tips
-- Organize your projects
-
 # Extras
 - [Git](https://git-scm.com/)
-- [Docker](https://www.docker.com/)
