@@ -1,8 +1,7 @@
 LEARN the [fundamentals](https://github.com/randomdukfuk/XPCoding/blob/main/README.md#learn-a-programming-language) of the language(stick to one language for a while)
 1. Understand what you're writing
 2. Start with small projects that you will have fun doing
-3. If you encounter terms you don't know, make sure to look them up.
-   Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it.([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
+3. Take a problem, break it down into smaller problems, then keep breaking it down until you can solve it.([1](https://en.wikipedia.org/wiki/Recursion), [2](https://en.wikipedia.org/wiki/Computational_thinking))
 
 # Learn a Programming Language
 
